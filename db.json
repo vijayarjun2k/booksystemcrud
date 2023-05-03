@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "sid": "3028",
+      "sname": "Vijay",
+      "fromdate": "2023-03-13T18:30:00.000Z",
+      "todate": "2023-03-26T18:30:00.000Z",
+      "bname": "Cindrella",
+      "genre": "Fantasy",
+      "id": 1
+    },
+    {
+      "sname": "Muthu",
+      "fromdate": "2023-02-13T18:30:00.000Z",
+      "todate": "2023-03-19T18:30:00.000Z",
+      "bname": "Romeo and Juliet",
+      "genre": "Romance",
+      "sid": "3029",
+      "id": 2
+    },
+    {
+      "bname": "Shakuntala",
+      "genre": "Romance",
+      "sid": "3030",
+      "fromdate": "2023-03-04T18:30:00.000Z",
+      "todate": "2023-03-07T18:30:00.000Z",
+      "sname": "Joseph",
+      "id": 4
+    },
+    {
+      "bname": "The Girl with the Dragon Tattoo",
+      "sname": "Albert",
+      "fromdate": "2023-02-28T18:30:00.000Z",
+      "todate": "2023-03-08T18:30:00.000Z",
+      "genre": "Thriller",
+      "id": 5
+    }
+  ]
+}
